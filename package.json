@@ -1,0 +1,24 @@
+{
+  "name": "mr-bean-first-npm",
+  "version": "1.0.0",
+  "description": "\"first npm\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamhacker123/mr-bean-first-npm.git"
+  },
+  "keywords": [
+    "mr",
+    "mr-bean",
+    "mr-bean-npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamhacker123/mr-bean-first-npm/issues"
+  },
+  "homepage": "https://github.com/dreamhacker123/mr-bean-first-npm#readme"
+}
